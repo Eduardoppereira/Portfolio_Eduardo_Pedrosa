@@ -1,6 +1,4 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://github.com/Eduardoppereira/Landing_Page_CocaCola/blob/main/coca-cola-circle-logo-A9EBD3B00A-seeklogo.com.png"></a>
     <span> Portfólio Eduardo Pedrosa </span>
 </h1>
 
