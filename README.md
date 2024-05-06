@@ -8,6 +8,8 @@ Portfólio feito em HTML, CSS, JS, PHP e Bootstrap
 ## Objetivo
 Criar um Portfólio para divulgar meus trabalhos sobre BI, Dados e Programação
 
+## Site
+[Clique aqui para acessar o Portfólio](https://eduardoppereira.github.io/Portfolio_Eduardo_Pedrosa/)
 
 ## Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
